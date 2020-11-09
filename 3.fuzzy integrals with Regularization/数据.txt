@@ -1,0 +1,11 @@
+data1-data4：DLBCL
+data5-data8:prostate
+data9:pima
+
+data10-data14:colon dataset
+
+
+leukemia cancer data
+
+20 21 22 23 colon dataset对数处理，归一化后的
+25 Breast
